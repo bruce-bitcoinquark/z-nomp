@@ -1,0 +1,6 @@
+{
+    "name": "Bitcoin Quark testnet",
+    "symbol": "TTQ",
+    "algorithm": "equihash",
+    "txfee": 0.000005
+}

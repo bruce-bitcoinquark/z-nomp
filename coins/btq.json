@@ -1,0 +1,6 @@
+{
+    "name": "Bitcoin Quark",
+    "symbol": "BTQ",
+    "algorithm": "equihash",
+    "txfee": 0.0004
+}
