@@ -1,6 +1,6 @@
 {
-    "name": "z-nomp",
-    "version": "0.0.4",
+    "name": "btq-nomp",
+    "version": "0.0.5",
     "description": "BicoinQuark (Equihash) stratum mining pool based on NOMP",
     "keywords": [
         "stratum",
@@ -19,6 +19,7 @@
     "license": "MIT",
     "author": "Joshua Yabut",
     "contributors": [
+	    "Lorenzo Bianco",
         "aayanl",
         "sennevb",
         "Matthew Little",
